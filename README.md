@@ -1,1 +1,0 @@
-# holbertonschool-backend-user-data
